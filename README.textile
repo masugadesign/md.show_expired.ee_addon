@@ -1,0 +1,26 @@
+h1. MD Show Expired
+
+Show (and filter) entries that have an expiration date on the Edit page in the ExpressionEngine Control Panel
+
+h2. Info
+
+Developed by Ryan Masuga, http://masugadesign.com
+
+This extension allows you to easily see what entries are expired – or set to expire in the future. A brand new dropdown is inserted in the search area of the Edit page so you can also filter by entries that are expired. Very handy if you use EE’s built in entry expiration!
+
+Docs: "MD Show Expired":http://www.masugadesign.com/the-lab/scripts/md-show-expired/ <br />
+EE Extension Info: http://expressionengine.com/docs/development/extensions.html
+
+Related ExpressionEngine Forum Thread: "":http://expressionengine.com/forums/viewthread/94004/
+
+h2. Installation
+
+# Put lang.md_show_expired.php in your */system/language/english* folder
+# Put ext.md_show_expired.php in your */system/extensions* folder.
+# Enable MD Show Expired in Extensions (Admin > Utilities > Extensions Manager)
+
+h2. Changelog
+
+*1.0.0*
+
+* Initial release.
