@@ -11,7 +11,7 @@ This extension allows you to easily see what entries are expired – or set to e
 Docs: "MD Show Expired":http://www.masugadesign.com/the-lab/scripts/md-show-expired/ <br />
 EE Extension Info: http://expressionengine.com/docs/development/extensions.html
 
-Related ExpressionEngine Forum Thread: "":http://expressionengine.com/forums/viewthread/94004/
+Related EE Forum Thread: "Extension: MD Show Expired - Show and filter expired entries on the EE control panel edit page":http://expressionengine.com/forums/viewthread/94004/
 
 h2. Installation
 
