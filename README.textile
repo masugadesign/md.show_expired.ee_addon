@@ -21,6 +21,6 @@ h2. Installation
 
 h2. Changelog
 
-*1.0.0*
+*1.0.0 (Oct 15, 2008)*
 
 * Initial release.
